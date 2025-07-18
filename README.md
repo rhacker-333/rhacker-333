@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhacker-333&label=Profile%20views&color=0e75b6&style=flat" alt="rhacker-333" /> </p>
 
-- 🔭 I’m currently working on [SudoSnap](https://github.com/rhacker-333/SudoSnap)
+- 🔭 I’m currently working on [NotesSecured](https://github.com/rhacker-333/NotesSecured)
 
-- 🌱 I’m currently learning **Apache Hadoop,Jira,DSA**
+- 🌱 I’m currently learning **JavaScript,DSA**
 
-- 📫 How to reach me **royalroys4444@gmail.com**
+- 📫 How to reach me **roy.soumyadip2704@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
