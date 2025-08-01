@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [NotesSecured](https://github.com/rhacker-333/NotesSecured)
 
-- 🌱 I’m currently learning **JavaScript,DSA**
+- 🌱 I’m currently learning **Apache Spark**
 
 - 📫 How to reach me **roy.soumyadip2704@gmail.com**
 
