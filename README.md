@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumyadip Roy</h1>
-<h3 align="center">I am learning dev & getting into tech.</h3>
+<h3 align="center">Analyzing Data & Building Software | Driving Insight Through Analytics and Code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhacker-333&label=Profile%20views&color=0e75b6&style=flat" alt="rhacker-333" /> </p>
 
